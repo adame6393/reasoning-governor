@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reasoning Governor"
+  short_description: "Route tasks to the right reasoning level"
+  default_prompt: "Use $reasoning-governor to complete this request with the lowest-cost reasoning plan that preserves quality."
